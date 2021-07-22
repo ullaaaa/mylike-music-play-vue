@@ -5,7 +5,21 @@
 
 ## 点这里查看  [demo](http://live.imoecg.com)
 
-# 一些截图：
+## 下载安装
+
+```shell
+git conle https://github.com/secondar/mylike-music-play-vue.git
+
+cd mylike-music-play-vue
+
+npm install
+
+npm run serve
+
+npm run build
+```
+
+## 一些截图：
 
 ![avatar](http://live.imoecg.com/img/1.png)
 ![avatar](http://live.imoecg.com/img/2.png)
